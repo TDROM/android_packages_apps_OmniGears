@@ -127,6 +127,12 @@
             android:persistent="false"/>
 
         <org.omnirom.omnilib.preference.SystemSettingSwitchPreference
+            android:key="shake_clean_recent"
+            android:title="@string/shake_clean_recent"
+            android:summary="@string/shake_clean_recent_summary"
+            android:defaultValue="true" />
+
+        <org.omnirom.omnilib.preference.SystemSettingSwitchPreference
             android:key="button_back_kill_enable"
             android:title="@string/button_back_kill_enable_title"
             android:summary="@string/button_back_kill_enable_summary"

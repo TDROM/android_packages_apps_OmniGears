@@ -25,6 +25,8 @@
     <string name="reset">Reset</string>
     <string name="kbs">kB/s</string>
     <!-- Hardware keys -->
+    <string name="shake_clean_recent">Clean by shake</string>
+    <string name="shake_clean_recent_summary">Clean recent task by</string>
     <string name="shake_clean_notification">otification bar notification shaking cleaning</string>
     <string name="button_keys_title">Keys</string>
     <string name="keys_bindings_title">Key actions</string>
