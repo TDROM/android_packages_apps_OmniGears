@@ -42,6 +42,11 @@
                 android:summary="@string/status_bar_ime_notification_summary"
                 android:defaultValue="true"/>
 
+            <org.omnirom.omnilib.preference.SystemSettingSwitchPreference
+                android:key="shake_clean_notification"
+                android:title="@string/shake_clean_notification"
+                android:defaultValue="true" />
+
             <Preference
                 android:key="category_network_traffic"
                 android:title="@string/network_traffic_title"

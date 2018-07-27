@@ -25,6 +25,7 @@
   <string name="reset">重置​​​</string>
   <string name="kbs">kB/s</string>
   <!-- Hardware keys -->
+  <string name="shake_clean_notification">通知栏通知晃动清理</string>
   <string name="button_keys_title">按键</string>
   <string name="keys_bindings_title">按键行为</string>
   <string name="button_keys_back_title">返回键</string>
